@@ -1,6 +1,6 @@
 - 👋 I’m Young Jun Choi
 
-- 🌱 Currently learning in the Department of Electical and Electronic Engineering in Yonsei Univ.
+- 🌱 Graduated the Department of Electical and Electronic Engineering in Yonsei Univ.
 
 
 <!---
