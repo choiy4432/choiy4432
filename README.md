@@ -1,6 +1,12 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Youngjun </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 🎓 Graduated Yonsei University Department of Electronic and Electrical Engineering</li></li><li> 📚 Studying AI (Computer Vision, LLM, VLM...) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        <ul style="padding-left: 30px; list-style-type: disc; margin: 0;">
+            <li>🎓 Graduated Yonsei University Department of Electronic and Electrical Engineering</li>
+            <li>📚 Studying AI (Computer Vision, LLM, VLM...)</li>
+        </ul>
+    </div> 
+</div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
