@@ -1,5 +1,5 @@
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Youngjun </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Young Jun </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         <ul style="padding-left: 30px; list-style-type: disc; margin: 0;">
             <li>🎓 Graduated Yonsei University Department of Electronic and Electrical Engineering</li>
